@@ -11,3 +11,5 @@ We are unapologetic vibe coders. We believe in “AI” as a democratizing tool 
 We do not publish anything that steals from artists.
 
 We are not a non-profit, but profit isn't the point.
+
+We take out work seriously, but not ourselves.
