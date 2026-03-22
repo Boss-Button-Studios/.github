@@ -17,7 +17,7 @@ Boss Button Studios is about recapturing the independent spirit of software deve
 
 * **Transparency First:** If our software must take anything from you for our benefit, we will tell you up front. We stand behind that with **publicly auditable code**.
 * **Vibe Coding:** We are unapologetic vibe coders. We believe in AI as a democratizing tool to make more people into creators.
-* **Ethical Creation:** We do not publish anything that steals from artists. Any AI-generated art will iterate from the start on work we own.
+* **Ethical Creation:** We do not publish anything that steals from artists. Our art starts with a human who chose to participate.
 * **Value Creation:** We are not a non-profit, but profit isn't the point. The mission is value creation, not value capture.
 * **The Village Hustle:** We believe that love, family, and community are the foundations of true success. Our timelines reflect that.
 * **Irreverence:** We take our work seriously, but not ourselves.
