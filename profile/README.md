@@ -14,6 +14,6 @@ We do not publish anything that steals from artists.
 
 We are not a non-profit, but profit isn't the point. The mission is value creation, not value capture.
 
-We take out work seriously, but not ourselves.
+We take our work seriously, but not ourselves.
 
 This is a company dedicated to the village hustle - we believe that love, family, and community are the foundations of true success, and our timelines will reflect that.
